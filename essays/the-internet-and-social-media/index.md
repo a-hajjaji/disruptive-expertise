@@ -1,5 +1,5 @@
 ---
-title: "How the Internet and Social Media Impacted 'Truth'"
+title: "How the Internet and Social Media Impacted Truth"
 layout: scrollstory
 header-image: images/jimmy-wales-imac.jpg
 thumbnail: images/jimmy-wales-imac.jpg
@@ -9,7 +9,7 @@ header-subtitle: How a Free Encyclopedia Disrupted Expertise
 header-position: center
 ---
 
-# Header part 2
+# placeholder
 
 On January 15, 2001, a website went live that contained almost nothing—a handful of stub articles, a blank editing interface, and a deceptively simple premise: anyone could write it. No credentials required. No editorial gatekeeping. No payment. Just a web browser and an opinion.
 
