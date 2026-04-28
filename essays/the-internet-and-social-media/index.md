@@ -24,8 +24,11 @@ header-position: center
 ## The Immediate Responses/Reactions:
   Pros/Hopes: 
       1. A way for humans to transmit and recieve information faster than ever before. Lack of censorship from traditional insitutions. Regular 'every-day people' are able to contribute to collection of information/news via blogs offering new perspectives, information, and a way to combat (harmful) propaganda from traditional forms of information/mass media. A way to unify the divide between 'professional' and 'amateur' journalism.
+
       2. Creation of new communities/accumulation of knowledge/altruism and revitalizing the world community in the hopes of working towards a more peaceful world, access to education/information, and (a) safespace away from the harsh realities of the world. 'Global Village' and democratizing a new frontier.
+
       3. A form of liberation/soverignty from oppressive governments/government oversight and surveillance. A possibility of creating a new form of society with it's own rules/laws/social contract. A place where people from all walks of life and beliefs/thoughts/philosophies can be accepted without prejudice. 
+
       4. A place where formation, exploration, and creation of identity can be done from the comfort of ones safespace. Social media, especially after the introduction of MySpace, offered a place for people, especially youth, to explore their identities in a 'safer' manner comapred to the real world. Youth could experiement without fear of immediate repurcussion.
   
   Cons/Fears:
@@ -37,8 +40,6 @@ header-position: center
       i. Social media's anonymity makes it easy for people to falsify their identities, leading readers to believe that the author/poster/person behind the account is an expert and thereby believing false information from a so-called 'authoritative' source of information. This can easily break down the social construct and dynamic of trust.
 
     d. The Impact(s) on 'Truth': Because information is not vetted, any singular person can say whatever they like, causing a spread of misinformation. The anonymity aspect of social media paired with falsifying accounts of identities, experience/expertise/scholarship, news, and more causing crisis and fears. Can cause a breakdown of the fragile social construct of trust found in Shapin's and Levy's view of knowledge and truth being affected over time. An increased, new understanding of what truth is: objective, not a social dynamic/construct. 
-
-
 
 ## But How is This Any Different From Past 'Disruptions'?
   1. Insanely faster spread of (mis/dis) information leading to faster real-world consequences.
