@@ -10,6 +10,15 @@ header-position: center
 ---
 
 # The Emergence of Social Media 
+
+When we think of social media in the modern era, we tend to think of using the internet to access websites and apps like Instagram, Facebook, TikTok, or Pintrest, just to name a few. Originally, the internet was not used by regular, every day people as it is now. Instead, it was used mainly by governments, military, and researchers as a way to communicate and transfer information securely. Social media was one of the first civillian-aimed parts of the internet that gave the average user access to people around the globe, new information, and most importantly, a new public sphere in a nonphysical realm. 
+
+During the beginnings of social media in the early 1980s, social media looked a lot different. Forums, journals, blogs, and avatar-based games/programs were the face of social media in the early days of the internet. Some of the earliest, popular forums where people could interact on were the Computer Bulletin Board Systems, Communitree BBS, the WELL, and. In these forums, people could engage in civil discourse, exchange ideas and perspectives, engage in spiritual and philosophical debates, and interact with other people across the globe in general. The aim of these forums typically revolved around creating a broader, global community of individuals using the internet casually to carve their online identities through their own written speech. However, using the internet to discuss technology and exchanging research, ideas, and more were very common, sometimes moreso than the casual forums.
+
+Users looking for solely casual interaction with others in a fun, engaging manner would instead head over to these avatar-based programs, most notably LambdaMOO and MUD. In these spaces, users could cultivate their avatar in whatever way the want: how they looked, their gender, building digital homes, experimenting with personalities and even sexuality ins ome cases. These were places where 
+
+
+
   1. Early 1980-90ss (forums, journals, avatar-based games)
     a. Earliest forms of 'social media' include: Computer Bulletin Board Systems (BBS/CBBS), CommuniTree BBS, and the WELL. 
   2. A new form of interaction with people from across the world and formulation of new groups/communities.
