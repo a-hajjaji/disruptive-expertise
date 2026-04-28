@@ -19,16 +19,16 @@ Users looking for solely casual interaction with others in a fun, engaging manne
 
 
 
-  1. Early 1980-90ss (forums, journals, avatar-based games)
+1. Early 1980-90ss (forums, journals, avatar-based games)
     a. Earliest forms of 'social media' include: Computer Bulletin Board Systems (BBS/CBBS), CommuniTree BBS, and the WELL. 
-  2. A new form of interaction with people from across the world and formulation of new groups/communities.
-  3. As with every other kind of (technological) disruption, mixed feelings over the emergence of a new form of socialization.
-  4. The Internet/online communication was originally used for military and telecommunication, so 'social media' for civillians was revolutionary in a sense. 
+2. A new form of interaction with people from across the world and formulation of new groups/communities.
+3. As with every other kind of (technological) disruption, mixed feelings over the emergence of a new form of socialization.
+4. The Internet/online communication was originally used for military and telecommunication, so 'social media' for civillians was revolutionary in a sense. 
 
 ## The Social Contract of 'Objective Truth'
-  1. Explain Shapin's social contract - collective accumulation of knowledge and 'agreed upon' truths. The foundations of what binds humans together/the 'requirements' for moral bonds that allow human society to stay stable. 
-  2. The institutions that were predominantly understood to be 'objective truth' (government, televesion/mass media, health organizations/instituted, librarians, etc) leading up/during the mergence of social media
-  3. Hopes/prospects of how social media could promote groupmind i.e. collective memory and building upon this social contract/construct of truth and knowledge.
+1. Explain Shapin's social contract - collective accumulation of knowledge and 'agreed upon' truths. The foundations of what binds humans together/the 'requirements' for moral bonds that allow human society to stay stable. 
+2. The institutions that were predominantly understood to be 'objective truth' (government, televesion/mass media, health organizations/instituted, librarians, etc) leading up/during the mergence of social media
+3. Hopes/prospects of how social media could promote groupmind i.e. collective memory and building upon this social contract/construct of truth and knowledge.
 
 ## The Immediate Responses/Reactions:
   Pros/Hopes: 
