@@ -13,28 +13,26 @@ header-position: center
 
 When we think of social media in the modern era, we tend to think of using the internet to access websites and apps like Instagram, Facebook, TikTok, or Pintrest, just to name a few. Originally, the internet was not used by regular, every day people as it is now. Instead, it was used mainly by governments, military, and researchers as a way to communicate and transfer information securely. Social media was one of the first civillian-aimed parts of the internet that gave the average user access to people around the globe, new information, and most importantly, a new public sphere in a nonphysical realm. 
 
-During the beginnings of social media in the early 1980s, social media looked a lot different. Forums, journals, blogs, and avatar-based games/programs were the face of social media in the early days of the internet. Some of the earliest, popular forums where people could interact on were the Computer Bulletin Board Systems, Communitree BBS, the WELL, and. In these forums, people could engage in civil discourse, exchange ideas and perspectives, engage in spiritual and philosophical debates, and interact with other people across the globe in general. The aim of these forums typically revolved around creating a broader, global community of individuals using the internet casually to carve their online identities through their own written speech. However, using the internet to discuss technology and exchanging research, ideas, and more, were very common; sometimes moreso than the casual forums.
+During the beginnings of social media in the early 1980s, social media looked a lot different. Forums, journals, blogs, and avatar-based games/programs were the face of social media in the early days of the internet. Some of the earliest, popular forums where people could interact on were the Computer Bulletin Board Systems, Communitree BBS, and the WELL. In these forums, people could engage in civil discourse, exchange ideas and perspectives, engage in spiritual and philosophical debates, and interact with other people across the globe in general. The aim of these forums typically revolved around creating a broader, global community of individuals using the internet casually to carve their online identities through their own written speech. However, using the internet to discuss technology and exchanging research, ideas, and more, were very common; sometimes more so than the casual forums.
 
 Users looking for solely casual interaction with others in a fun, engaging manner would instead head over to these avatar-based programs, most notably LambdaMOO and MUD. In these spaces, users could cultivate their avatar in whatever way the want: how they looked, their gender, building digital homes, experimenting with personalities and even sexuality in some cases. These were places where the intimate aspects of life could be explored without shame, and the anonymity of these sites allowed people to feel safe, at the very least to some degree. 
 
 Although the beginning of a new form of community offered new and exciting opportunities for many, there were also many critics who voiced their concerns and fears that the internet had to offer. Perhaps, an anonymous, unregulated, new landscape would not be as beneficial as hopeful internet users thought it could be.
 
 
-1. Early 1980-90ss (forums, journals, avatar-based games)
-    a. Earliest forms of 'social media' include: Computer Bulletin Board Systems (BBS/CBBS), CommuniTree BBS, and the WELL. 
-2. A new form of interaction with people from across the world and formulation of new groups/communities.
-3. As with every other kind of (technological) disruption, mixed feelings over the emergence of a new form of socialization.
-4. The Internet/online communication was originally used for military and telecommunication, so 'social media' for civillians was revolutionary in a sense. 
-
 ## The Social Contract of 'Objective Truth'
 
 Steven Shapin's *A Social History of Truth: Civility and Science in Seventeenth-Century England*, describes how the idea of 'objective truth' may not be as 'objective' as we may assume it to be. What is seen as a cold hard fact is instead influenced by a community's (whether the community in question be globally or locally) culture and feelings towards such claims, and who made it. The collection of knowledge and 'agreed upon' truths influence the moral and social bonds, and thereby the social contract, in which a society's foundation lies upon. The stability of a society rests on those, whether it be institutions or individuals, who are acknowledge and understood to be the symbols of 'truth'.  
 
-1. Explain Shapin's social contract - collective accumulation of knowledge and 'agreed upon' truths. The foundations of what binds humans together/the 'requirements' for moral bonds that allow human society to stay stable. 
-2. The institutions that were predominantly understood to be 'objective truth' (government, televesion/mass media, health organizations/instituted, librarians, etc) leading up/during the mergence of social media
-3. Hopes/prospects of how social media could promote groupmind i.e. collective memory and building upon this social contract/construct of truth and knowledge.
+In the time shortly before and immediately following the introduction of social media as a dominant, inescapable, indelible form of communication and community building, the objective truth of our society came from institutions like the government, news organizations, and health institutes, and individuals like doctors, librarians, politicians, reporters, and teachers. These people and organizations gained authority from a combination of credentialed expertise, institutional backing, and a broad cultural deference to established systems of gaining and using knowledge or power. Authority had a tangible architecture; a claim could be traced back to where it came from and based on who said it, and where, and how, it could be accepted or rejected within a fairly stable framework. Does that mean that this architecture was unflawed or neutral? No. In line with Shapin’s theory, the “objective truth” produced in this era was inflexible and catered to the white, male majority opinion of the world and perception of reality. 
+Thus, as social media grew, people began to hope that the monolith would become more of a poly-lith. The objective truth could come from people who had no chance at influencing this knowledge previously. Maybe the architecture of authority could become a democracy, where a collectively maintained, continually edited, constantly growing pool of knowledge could indeed be an unbiased reflection of reality with the authority to societally make it so. Social media could promote ‘groupmind’, which is a collective memory and intelligence shared across a community. Knowledge as a social contract could be reevaluated in an inclusive, transparent, adaptive way through the internet’s ability to connect people all over the world and social media’s ability to give them a platform to speak their truth.
+
+
 
 ## The Immediate Responses/Reactions:
+
+As social media grew in popularity and ease of use, everybody everywhere all at once had opinions. With the help of sites like MySpace or Facebook, they could explain not just to their families or friends, but to the world what exactly they thought. Reactions ranged from expecting society to rally around this new technology and unify into something beautiful and unproblematic  to expecting the cultural, physical, and intellectual collapse of society as a consequence. 
+
   Pros/Hopes: 
    1. A way for humans to transmit and recieve information faster than ever before. Lack of censorship from traditional insitutions. Regular 'every-day people' are able to contribute to collection of information/news via blogs offering new perspectives, information, and a way to combat (harmful) propaganda from traditional forms of information/mass media. A way to unify the divide between 'professional' and 'amateur' journalism.
 
@@ -80,55 +78,57 @@ Steven Shapin's *A Social History of Truth: Civility and Science in Seventeenth-
 
 ## How I Used AI for This Essay
 
-This essay was researched and written with the assistance of Claude, an AI assistant made by Anthropic.
+The sole AI used for the creation of this essay was Google's *NotebookLM*, and it was only used for technical help: research and notetaking/organizing purposes. At no point in time was AI used to generate titles, sentences, or to help refine my own, unique written work.  
 
-AI was useful for: generating an initial outline, suggesting relevant historical figures and events, and helping draft transitions between sections. I used it as a starting point—a well-read research assistant who could quickly surface names and dates and connections.
+With my chosen topic of the essay set in the early days of the internet, it was very difficult locating primary sources originating from the early 80's-2000's on my own. NotebookLM's AI was extremely useful in finding numerous sources from these periods. From previous experiences using AI, I knew I needed a sort of 'jumping off' point for the AI to find said sources, and so I started this process by uploading Steven Shapin's *A Social History of Truth: Civility and Science in Seventeenth-Century England*. From here I asked it to find sources that were relevant to Shapin's central themes of trust, (objective/subjective) truth, and the implications these have on humans' social construct/contract surrounding institutions that are meant to uphold these ideals. While there were most certainly sources that the AI presented to me that turned out to be irrelevant, most sources, however, *were* relevant and practical. Having Shapin's work as the backbone for my desired research and theme for this essay helped to maintain the AI's consistency throughout my time with it, thereby streamlining the research process for older sources, and  complimenting the newer, more modern sources I found in my time reseraching. 
 
-AI was *not* a reliable source for specific claims, quotations, or bibliographic details. Every source cited here was verified through actual databases (JSTOR, Google Scholar, library catalogs) or the original texts. Several sources that an AI initially suggested turned out to have incorrect publication dates, wrong page numbers, or—in two cases—to not exist in the form described. AI is not a substitute for source verification; it is a starting point for research, not an endpoint.
+Personally, I am someone who takes plenty of notes of the sources I read, from physical sticky notes to digital notes and highlights, but I end up leaving them scattered everywhere. This causes me to then allocate time trying to find and organize said notes, rather than working on the project in focus. The AI was able to keep all my notes visibile and accessible for me, giving me ease of mind knowing that I had a place to refer back and have help organizing my thoughts during the process. 
 
-The deeper limitation: AI flattened the historiographic debates. When I asked it to explain "the significance of Wikipedia," it gave a confident, balanced-sounding answer that missed exactly the tensions and contradictions that make the history interesting. Historians argue. They disagree. They revise. AI tends to synthesize and harmonize. The most important intellectual work in this essay—deciding what the evidence actually *means*—was mine to do.
+When I was ready to begin constructing an outline for my essay, NotebookLM's AI was able to take my notes and help me create a simplified outline of topics I felt were central to my chosen topic of discussion. I was able to use it as a sort of 'living curator', having the AI throw out points I felt were unnecessary, or even adding back in highlighted topics I previously felt cluttered up the article. 
 
----
+There were moments, however, where the AI was not beneficial in my time reseraching and curating my outline. For example, in it's synopsis of the sources it generated, often times it would mistake the sources' citations as what the source itself was claiming to argue, when in reality the author may have been using said citations or quotes as a means of viewing the 'other side' of their argument. There were instances where it neglected to acknowledge sources I saved/found relevent in favor of consistently citing the same handful of sources, leadind the initial outlines to be lackluster, and superficial to a degree.
+
+From my time working with AI on this project, I conclude that the method in which I employed AI to help me formulate and organize my essay was extremely helpful, allowing me to focus on vetting information/the found sources, and writing the essay itself. While the vetting of sources took up a lot of time, time many would assume AI would help cut down, it instead helped me to refine and be on the constant look out of what I wanted my essay to cover, and include perspectives I felt were inherent to the discussion. 
 
 ## Bibliography
 
-Shapin, Steven. *A Social History of Truth: Civility and Science in Seventeenth-Century England*. Chicago: University of Chicago Press, 1994.
+*Barlow, John Perry.* "A Declaration of the Independence of Cyberspace." Electronic Frontier Foundation, February 8, 1996.
 
-Doeben-Henisch, Gerd. "Pierre Lévy: Collective Intelligence – Chapter 1 – Introduction." uffmm.org, March 17, 2022.
+*"Bridging the Digital Divide: A Vision to a Digital Inclusive Society."* Legislative Councillor (IT), Hong Kong, June 2001.
 
-Rheingold, Howard. The Virtual Community: Homesteading on the Electronic Frontier. Reading, MA: Addison-Wesley, 1993.
+*Brown, Sara.* "MIT Sloan Research About Social Media, Misinformation, and Elections." MIT Sloan: Ideas Made to Matter, October 5, 2020.
 
-Lasica, J.D. "Blogs and Journalism Need Each Other." Nieman Reports, September 15, 2003.
+*Dahlberg, Lincoln.* "Extending the Public Sphere through Cyberspace: The Case of Minnesota E-Democracy." *First Monday* 6, no. 3 (March 2001).
 
-Thornton, Songok Han. "Let Them Eat IT: The Myth of the Global Village as an Interactive Utopia." CTheory, 2002.
+*Del Vicario, Michela, Alessandro Bessi, Fabiana Zollo, Fabio Petroni, Antonio Scala, Guido Caldarelli, H. Eugene Stanley, and Walter Quattrociocchi.* "The Spreading of Misinformation Online." *Proceedings of the National Academy of Sciences (PNAS)* 113, no. 3 (2016): 554-559.
 
-Barlow, John Perry. "A Declaration of the Independence of Cyberspace." Electronic Frontier Foundation, February 8, 1996.
+*Dibbell, Julian.* "A Rape in Cyberspace; or How an Evil Clown, a Haitian Trickster Spirit, Two Wizards, and a Cast of Dozens Turned a Database into a Society." *Village Voice*, December 21, 1993.
 
-"Bridging the Digital Divide: A Vision to a Digital Inclusive Society." Legislative Councillor (IT), Hong Kong, June 2001.
+*Doeben-Henisch, Gerd.* "Pierre Lévy: Collective Intelligence – Chapter 1 – Introduction." **uffmm.org**, March 17, 2022.
 
-Del Vicario, Michela, Alessandro Bessi, Fabiana Zollo, Fabio Petroni, Antonio Scala, Guido Caldarelli, H. Eugene Stanley, and Walter Quattrociocchi. "The Spreading of Misinformation Online." Proceedings of the National Academy of Sciences (PNAS) 113, no. 3 (2016): 554-559.
+*Donath, Judith S.* "Identity and Deception in the Virtual Community." (Draft), August 4, 1995.
 
-Dibbell, Julian. "A Rape in Cyberspace; or How an Evil Clown, a Haitian Trickster Spirit, Two Wizards, and a Cast of Dozens Turned a Database into a Society." Village Voice, December 21, 1993.
+*Fallows, Deborah.* "The Internet and Daily Life: Many Americans use the Internet in everyday activities, but traditional offline habits still dominate." **Pew Internet & American Life Project**, August 11, 2004.
 
-Martin, Rachel. "Exploring YouTube And The Spread Of Disinformation." NPR Morning Edition, April 13, 2021.
+*Lasica, J.D.* "Blogs and Journalism Need Each Other." **Nieman Reports**, September 15, 2003.
 
-Brown, Sara. "MIT Sloan Research About Social Media, Misinformation, and Elections." MIT Sloan: Ideas Made to Matter, October 5, 2020.
+*Lemke, Steve W.* "Truth for a Postmodern Era." New Orleans Baptist Theological Seminary.
 
-Salimkhan, Goldie, Adriana M. Manago, and Patricia M. Greenfield. "The Construction of the Virtual Self on MySpace." Cyberpsychology: Journal of Psychosocial Research on Cyberspace.
+*Martin, Rachel.* "Exploring YouTube And The Spread Of Disinformation." **NPR Morning Edition**, April 13, 2021.
 
- Lemke, Steve W. "Truth for a Postmodern Era." New Orleans Baptist Theological Seminary.
+*Rheingold, Howard.* **The Virtual Community: Homesteading on the Electronic Frontier**. Reading, MA: Addison-Wesley, 1993.
 
- In Technology: Where it Started and Where it's Going, edited by Adam Bauer et al. Pressbooks, 2021.
+*Salimkhan, Goldie, Adriana M. Manago, and Patricia M. Greenfield.* "The Construction of the Virtual Self on MySpace." **Cyberpsychology: Journal of Psychosocial Research on Cyberspace**.
 
- Vedder, Anton, and Robert Wachbroit. "Reliability of Information on the Internet: Some Distinctions." Ethics and Information Technology 5 (2004): 211-215.
+*Shapin, Steven.* **A Social History of Truth: Civility and Science in Seventeenth-Century England**. Chicago: University of Chicago Press, 1994.
 
- Turkle, Sherry. "Identity in the Age of the Internet." In Technology and the Future, 7th edition, edited by Albert H. Teich, 336-358. New York: St. Martin’s Press, 1997.
+*Taylor, Michaela.* "Social Media Overview." In **Technology: Where it Started and Where it's Going**, edited by Adam Bauer et al. Pressbooks, 2021.
 
- Dahlberg, Lincoln. "Extending the Public Sphere through Cyberspace: The Case of Minnesota E-Democracy." First Monday 6, no. 3 (March 2001).
+*Thornton, Songok Han.* "Let Them Eat IT: The Myth of the Global Village as an Interactive Utopia." **CTheory**, 2002.
 
-Wilson, Jr., Josh L. "Electronic Village: Information Technology Creates New Space." Computer/Law Journal 6, no. 2 (Fall 1985): 365-386
+*Turkle, Sherry.* "Identity in the Age of the Internet." In ***Technology and the Future***, 7th edition, edited by Albert H. Teich, 336-358. New York: St. Martin’s Press, 1997.
 
-Donath, Judith S. "Identity and Deception in the Virtual Community." (Draft), August 4, 1995
+*Vedder, Anton, and Robert Wachbroit.* "Reliability of Information on the Internet: Some Distinctions." **Ethics and Information Technology** 5 (2004): 211-215.
 
-Fallows, Deborah. "The Internet and Daily Life: Many Americans use the Internet in everyday activities, but traditional offline habits still dominate." Pew Internet & American Life Project, August 11, 2004
+*Wilson, Jr., Josh L.* "Electronic Village: Information Technology Creates New Space." **Computer/Law Journal** 6, no. 2 (Fall 1985): 365-386.
 
