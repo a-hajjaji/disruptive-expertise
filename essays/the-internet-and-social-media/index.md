@@ -24,14 +24,15 @@ Although the beginning of a new form of community offered new and exciting oppor
 
 Steven Shapin's *A Social History of Truth: Civility and Science in Seventeenth-Century England*, describes how the idea of 'objective truth' may not be as 'objective' as we may assume it to be. What is seen as a cold hard fact is instead influenced by a community's (whether the community in question be globally or locally) culture and feelings towards such claims, and who made it. The collection of knowledge and 'agreed upon' truths influence the moral and social bonds, and thereby the social contract, in which a society's foundation lies upon. The stability of a society rests on those, whether it be institutions or individuals, who are acknowledge and understood to be the symbols of 'truth'.  
 
-In the time shortly before and immediately following the introduction of social media as a dominant, inescapable, indelible form of communication and community building, the objective truth of our society came from institutions like the government, news organizations, and health institutes, and individuals like doctors, librarians, politicians, reporters, and teachers. These people and organizations gained authority from a combination of credentialed expertise, institutional backing, and a broad cultural deference to established systems of gaining and using knowledge or power. Authority had a tangible architecture; a claim could be traced back to where it came from and based on who said it, and where, and how, it could be accepted or rejected within a fairly stable framework. Does that mean that this architecture was unflawed or neutral? No. In line with Shapin’s theory, the “objective truth” produced in this era was inflexible and catered to the white, male majority opinion of the world and perception of reality. 
-Thus, as social media grew, people began to hope that the monolith would become more of a poly-lith. The objective truth could come from people who had no chance at influencing this knowledge previously. Maybe the architecture of authority could become a democracy, where a collectively maintained, continually edited, constantly growing pool of knowledge could indeed be an unbiased reflection of reality with the authority to societally make it so. Social media could promote ‘groupmind’, which is a collective memory and intelligence shared across a community. Knowledge as a social contract could be reevaluated in an inclusive, transparent, adaptive way through the internet’s ability to connect people all over the world and social media’s ability to give them a platform to speak their truth.
+In the time shortly before and immediately following the introduction of social media as a dominant and eventually inescapable, form of communication and community building, the objective truth of our society came from institutions like the government, news organizations, and health institutes. Individuals such as doctors, librarians, politicians, reporters, and teachers were also seen as part of these reliable institutions as well. These people and organizations gained authority from a combination of credentialed expertise, institutional backing, and a broad cultural deference to established systems of gaining and using knowledge or power. Authority had a tangible architecture; a claim could be traced back to where it came from and based on who said it, where, and how. Therefore, these claims could be accepted or rejected within a fairly stable framework. Does that mean that this architecture was unflawed or neutral? No. In line with Shapin’s theory, the “objective truth” produced in this era was inflexible and catered to those with privilege, primarily the white, male majority opinion(s) of the world and their perception of reality. This disparity is also highlighted in what is coined as the 'Digital Divide' in both *Dr. Wilmon Brown*, and *Sin Chung Kai's* research, further discussed below.
 
-
+Thus, as social media grew, people began to hope that the monolith would become more of a poly-lith. The objective truth could come from people who had no chance at influencing this knowledge previously. Maybe the architecture of authority could become a democracy, where a collectively maintained, continually edited, constantly growing pool of knowledge could indeed be an unbiased reflection of reality with the authority to societally make it so *(1)*. Social media could promote ‘groupmind’, which is a collective memory and intelligence shared across a community. Knowledge as a social contract could be reevaluated in an inclusive, transparent, adaptive way through the internet’s ability to connect people all over the world and social media’s ability to give them a platform to speak their truth. *(4)*
 
 ## The Immediate Responses/Reactions:
 
 As social media grew in popularity and ease of use, everybody everywhere all at once had opinions. With the help of sites like MySpace or Facebook, they could explain not just to their families or friends, but to the world what exactly they thought. Reactions ranged from expecting society to rally around this new technology and unify into something beautiful and unproblematic  to expecting the cultural, physical, and intellectual collapse of society as a consequence. 
+
+
 
   Pros/Hopes: 
    1. A way for humans to transmit and recieve information faster than ever before. Lack of censorship from traditional insitutions. Regular 'every-day people' are able to contribute to collection of information/news via blogs offering new perspectives, information, and a way to combat (harmful) propaganda from traditional forms of information/mass media. A way to unify the divide between 'professional' and 'amateur' journalism.
@@ -86,49 +87,49 @@ Personally, I am someone who takes plenty of notes of the sources I read, from p
 
 When I was ready to begin constructing an outline for my essay, NotebookLM's AI was able to take my notes and help me create a simplified outline of topics I felt were central to my chosen topic of discussion. I was able to use it as a sort of 'living curator', having the AI throw out points I felt were unnecessary, or even adding back in highlighted topics I previously felt cluttered up the article. 
 
-There were moments, however, where the AI was not beneficial in my time reseraching and curating my outline. For example, in it's synopsis of the sources it generated, often times it would mistake the sources' citations as what the source itself was claiming to argue, when in reality the author may have been using said citations or quotes as a means of viewing the 'other side' of their argument. There were instances where it neglected to acknowledge sources I saved/found relevent in favor of consistently citing the same handful of sources, leadind the initial outlines to be lackluster, and superficial to a degree.
+There were moments, however, where the AI was not beneficial in my time reseraching and curating my outline. For example, in it's synopsis of the sources it generated, often times it would mistake the sources' citations as what the source itself was claiming to argue, when in reality the author may have been using said citations or quotes as a means of viewing the 'other side' of their argument. There were instances where it neglected to acknowledge sources I saved/found relevent in favor of consistently citing the same handful of sources, leading the initial outlines to be lackluster, and superficial to a degree.
 
 From my time working with AI on this project, I conclude that the method in which I employed AI to help me formulate and organize my essay was extremely helpful, allowing me to focus on vetting information/the found sources, and writing the essay itself. While the vetting of sources took up a lot of time, time many would assume AI would help cut down, it instead helped me to refine and be on the constant look out of what I wanted my essay to cover, and include perspectives I felt were inherent to the discussion. 
 
 ## Bibliography
 
-*Barlow, John Perry.* "A Declaration of the Independence of Cyberspace." Electronic Frontier Foundation, February 8, 1996.
+*(1)* *Barlow, John Perry.* "A Declaration of the Independence of Cyberspace." Electronic Frontier Foundation, February 8, 1996.
 
-*"Bridging the Digital Divide: A Vision to a Digital Inclusive Society."* Legislative Councillor (IT), Hong Kong, June 2001.
+*(2)* *"Bridging the Digital Divide: A Vision to a Digital Inclusive Society."* Legislative Councillor (IT), Hong Kong, June 2001.
 
-*Brown, Sara.* "MIT Sloan Research About Social Media, Misinformation, and Elections." MIT Sloan: Ideas Made to Matter, October 5, 2020.
+*(3)* *Brown, Sara.* "MIT Sloan Research About Social Media, Misinformation, and Elections." MIT Sloan: Ideas Made to Matter, October 5, 2020.
 
-*Dahlberg, Lincoln.* "Extending the Public Sphere through Cyberspace: The Case of Minnesota E-Democracy." *First Monday* 6, no. 3 (March 2001).
+*(4)* *Dahlberg, Lincoln.* "Extending the Public Sphere through Cyberspace: The Case of Minnesota E-Democracy." *First Monday* 6, no. 3 (March 2001).
 
-*Del Vicario, Michela, Alessandro Bessi, Fabiana Zollo, Fabio Petroni, Antonio Scala, Guido Caldarelli, H. Eugene Stanley, and Walter Quattrociocchi.* "The Spreading of Misinformation Online." *Proceedings of the National Academy of Sciences (PNAS)* 113, no. 3 (2016): 554-559.
+*(5)* *Del Vicario, Michela, Alessandro Bessi, Fabiana Zollo, Fabio Petroni, Antonio Scala, Guido Caldarelli, H. Eugene Stanley, and Walter Quattrociocchi.* "The Spreading of Misinformation Online." *Proceedings of the National Academy of Sciences (PNAS)* 113, no. 3 (2016): 554-559.
 
-*Dibbell, Julian.* "A Rape in Cyberspace; or How an Evil Clown, a Haitian Trickster Spirit, Two Wizards, and a Cast of Dozens Turned a Database into a Society." *Village Voice*, December 21, 1993.
+*(6)* *Dibbell, Julian.* "A Rape in Cyberspace; or How an Evil Clown, a Haitian Trickster Spirit, Two Wizards, and a Cast of Dozens Turned a Database into a Society." *Village Voice*, December 21, 1993.
 
-*Doeben-Henisch, Gerd.* "Pierre Lévy: Collective Intelligence – Chapter 1 – Introduction." **uffmm.org**, March 17, 2022.
+*(7)* *Doeben-Henisch, Gerd.* "Pierre Lévy: Collective Intelligence – Chapter 1 – Introduction." **uffmm.org**, March 17, 2022.
 
-*Donath, Judith S.* "Identity and Deception in the Virtual Community." (Draft), August 4, 1995.
+ *(8)* *Donath, Judith S.* "Identity and Deception in the Virtual Community." (Draft), August 4, 1995.
 
-*Fallows, Deborah.* "The Internet and Daily Life: Many Americans use the Internet in everyday activities, but traditional offline habits still dominate." **Pew Internet & American Life Project**, August 11, 2004.
+*(9)* *Fallows, Deborah.* "The Internet and Daily Life: Many Americans use the Internet in everyday activities, but traditional offline habits still dominate." **Pew Internet & American Life Project**, August 11, 2004.
 
-*Lasica, J.D.* "Blogs and Journalism Need Each Other." **Nieman Reports**, September 15, 2003.
+*(10)* *Lasica, J.D.* "Blogs and Journalism Need Each Other." **Nieman Reports**, September 15, 2003.
 
-*Lemke, Steve W.* "Truth for a Postmodern Era." New Orleans Baptist Theological Seminary.
+*(11)* *Lemke, Steve W.* "Truth for a Postmodern Era." New Orleans Baptist Theological Seminary.
 
-*Martin, Rachel.* "Exploring YouTube And The Spread Of Disinformation." **NPR Morning Edition**, April 13, 2021.
+ *(12)* *Martin, Rachel.* "Exploring YouTube And The Spread Of Disinformation." **NPR Morning Edition**, April 13, 2021.
 
-*Rheingold, Howard.* **The Virtual Community: Homesteading on the Electronic Frontier**. Reading, MA: Addison-Wesley, 1993.
+*(13)* *Rheingold, Howard.* **The Virtual Community: Homesteading on the Electronic Frontier**. Reading, MA: Addison-Wesley, 1993.
 
-*Salimkhan, Goldie, Adriana M. Manago, and Patricia M. Greenfield.* "The Construction of the Virtual Self on MySpace." **Cyberpsychology: Journal of Psychosocial Research on Cyberspace**.
+*(14)* *Salimkhan, Goldie, Adriana M. Manago, and Patricia M. Greenfield.* "The Construction of the Virtual Self on MySpace." **Cyberpsychology: Journal of Psychosocial Research on Cyberspace**.
 
-*Shapin, Steven.* **A Social History of Truth: Civility and Science in Seventeenth-Century England**. Chicago: University of Chicago Press, 1994.
+*(15)* *Shapin, Steven.* **A Social History of Truth: Civility and Science in Seventeenth-Century England**. Chicago: University of Chicago Press, 1994.
 
-*Taylor, Michaela.* "Social Media Overview." In **Technology: Where it Started and Where it's Going**, edited by Adam Bauer et al. Pressbooks, 2021.
+*(16)* *Taylor, Michaela.* "Social Media Overview." In **Technology: Where it Started and Where it's Going**, edited by Adam Bauer et al. Pressbooks, 2021.
 
-*Thornton, Songok Han.* "Let Them Eat IT: The Myth of the Global Village as an Interactive Utopia." **CTheory**, 2002.
+*(17)* *Thornton, Songok Han.* "Let Them Eat IT: The Myth of the Global Village as an Interactive Utopia." **CTheory**, 2002.
 
-*Turkle, Sherry.* "Identity in the Age of the Internet." In ***Technology and the Future***, 7th edition, edited by Albert H. Teich, 336-358. New York: St. Martin’s Press, 1997.
+*(18)* *Turkle, Sherry.* "Identity in the Age of the Internet." In ***Technology and the Future***, 7th edition, edited by Albert H. Teich, 336-358. New York: St. Martin’s Press, 1997.
 
-*Vedder, Anton, and Robert Wachbroit.* "Reliability of Information on the Internet: Some Distinctions." **Ethics and Information Technology** 5 (2004): 211-215.
+*(19)* *Vedder, Anton, and Robert Wachbroit.* "Reliability of Information on the Internet: Some Distinctions." **Ethics and Information Technology** 5 (2004): 211-215.
 
-*Wilson, Jr., Josh L.* "Electronic Village: Information Technology Creates New Space." **Computer/Law Journal** 6, no. 2 (Fall 1985): 365-386.
+*(20)* *Wilson, Jr., Josh L.* "Electronic Village: Information Technology Creates New Space." **Computer/Law Journal** 6, no. 2 (Fall 1985): 365-386.
 
