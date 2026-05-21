@@ -1,11 +1,11 @@
 ---
 title: "Social Media: The Power of the Screen"
 layout: scrollstory
-header-image: 
-thumbnail: 
+header-image: images/socialmedia.jpg
+thumbnail: images/socialmedia.jpg
 summary: The introduction of the internet was the foundation of a new 'Third Place' outside of the physical world. A place where humans of all walks of life, regardless of background, self-identity, or residence in the world, could come together and share ideas, beliefs, and create a new form of community. Although the early days were full of hope, there were also fears of what laid ahead for humanity, including isolation, faceless accounts spouting dis- or misinformation, and an outlet for a new 'panopticon'. As social media has evolved, so to have these hopes and fears, and it's disruption on how we as a human society view truth and knowledge in the modern times. 
-header-title: 
-header-subtitle: 
+header-title: Social Media: The Power of the Screen
+header-subtitle: How the Social Contract of 'Truth' Was Disrupted by the Introduction of the Online Community.
 header-position: center
 ---
 
@@ -19,6 +19,12 @@ Users looking for solely casual interaction with others in a fun, engaging manne
 
 Although the beginning of a new form of community offered new and exciting opportunities for many, there were also many critics who voiced their concerns and fears that the internet had to offer. Perhaps, an anonymous, unregulated, new landscape would not be as beneficial as hopeful internet users thought it could be.
 
+{% include images/figure-wrap.html image-path="images/lambdamoo.webp"
+  height="85vh"
+  background-position="center top"
+  caption="Interface of an online interactive platform, "Second Life'. Like LambdaMoo, it was one of the first iterations of avatar-based interactive systems users could use to interact with others on amore intimate level. Source: Sandra Buchmuller, Gesche Joost, "The ROle of Interface in Virtual Gender Representations."
+  
+%}
 
 ## The Social Contract of 'Objective Truth'
 
@@ -46,11 +52,13 @@ For many, social media marked a new age not only for community building and acce
 
 Similarly, social media promised for some to be a place where the formation, exploration, and creation of identity could be done where and when one was comfortable. Especially after the introduction of avatar-based games such as LambdaMOO and proto-modern social media platforms such as MySpace, people, especially youth, turned to social media as a way to safely explore their identities *(14)*. The immediate social consequences from experimenting with sexuality, gender, religious beliefs, or politics in real, physical life were much easier to evade online. In particular, those who felt isolated, misunderstood, or unsafe expressing their true selves in their immediate, physical surroundings surroundings, found that social media promised an unstifling environment where one's identity was theirs and theirs alone. 
 
-{% include images/figure-wrap.html image-path="images/lambdamoo.webp"
+{% include images/figure-wrap.html
+  image-path="johnbarlow.png"
   height="85vh"
   background-position="center top"
   box-align="left"
-%}
+  text="John Barlow, author of "A Declaration of the Independence of Cyberspace" argues that the emerging social media and usage of the internet by civilians marked a gateway to a truly democratized sphere, away from the oversight and stifling nature of governments."
+ %}
 
 However, where some saw hope in this frontier, others feared what may become of it. 
 
@@ -76,7 +84,7 @@ The rise of social media has led to the faster dissolution of trust in instituti
   height="85vh"
   background-position="center top"
   box-align="left"
-  text=" 'You know, they're just so good at hyping people up and making you angry about this little thing and repeating an opinion over and over and over again until it sounds like a fact and being very snarky and demeaning with people who don't agree.' - NPR"
+  text=" "You know, they're just so good at hyping people up and making you angry about this little thing and repeating an opinion over and over and over again until it sounds like a fact and being very snarky and demeaning with people who don't agree." - Renee Ekwoge, NPR. Image Source: ETX Daily Up, "Need for speed: Watching sped-up content is a new social trend." "
 %}
 
 
