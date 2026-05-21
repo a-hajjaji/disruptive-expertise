@@ -22,7 +22,7 @@ Although the beginning of a new form of community offered new and exciting oppor
 {% include images/figure-wrap.html image-path="images/lambdamoo.webp"
   height="85vh"
   background-position="center top"
-  caption="Interface of an online interactive platform, "Second Life'. Like LambdaMoo, it was one of the first iterations of avatar-based interactive systems users could use to interact with others on amore intimate level. Source: Sandra Buchmuller, Gesche Joost, "The ROle of Interface in Virtual Gender Representations."
+  caption="Interface of an online interactive platform, "Second Life'. Like LambdaMoo, it was one of the first iterations of avatar-based interactive systems users could use to interact with others on amore intimate level. Source: Sandra Buchmuller, Gesche Joost, "The Role of Interface in Virtual Gender Representations."
   
 %}
 
@@ -57,7 +57,7 @@ Similarly, social media promised for some to be a place where the formation, exp
   height="85vh"
   background-position="center top"
   box-align="left"
-  text="John Barlow, author of "A Declaration of the Independence of Cyberspace" argues that the emerging social media and usage of the internet by civilians marked a gateway to a truly democratized sphere, away from the oversight and stifling nature of governments."
+  caption="John Barlow, author of "A Declaration of the Independence of Cyberspace" argues that the emerging social media and usage of the internet by civilians marked a gateway to a truly democratized sphere, away from the oversight and stifling nature of governments. Image Source: Wikipedia"
  %}
 
 However, where some saw hope in this frontier, others feared what may become of it. 
