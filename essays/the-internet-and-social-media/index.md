@@ -46,7 +46,12 @@ For many, social media marked a new age not only for community building and acce
 
 Similarly, social media promised for some to be a place where the formation, exploration, and creation of identity could be done where and when one was comfortable. Especially after the introduction of avatar-based games such as LambdaMOO and proto-modern social media platforms such as MySpace, people, especially youth, turned to social media as a way to safely explore their identities *(14)*. The immediate social consequences from experimenting with sexuality, gender, religious beliefs, or politics in real, physical life were much easier to evade online. In particular, those who felt isolated, misunderstood, or unsafe expressing their true selves in their immediate, physical surroundings surroundings, found that social media promised an unstifling environment where one's identity was theirs and theirs alone. 
 
-{%include images/figure-wrap.html image-path="lambdamoo.webp"%}
+{% include images/figure-wrap.html image-path="lambdamoo.webp" %} {% include images/ambdamoo.webp
+  image-path="images/lambdamoo.webp"
+  height="85vh"
+  background-position="center top"
+  box-align="left"
+%}
 
 However, where some saw hope in this frontier, others feared what may become of it. 
 
