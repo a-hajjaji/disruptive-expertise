@@ -56,7 +56,7 @@ Similarly, social media promised for some to be a place where the formation, exp
   height="85vh"
   background-position="center top"
   box-align="left"
-  caption="John Barlow, author of "A Declaration of the Independence of Cyberspace" argues that the emerging social media and usage of the internet by civilians marked a gateway to a truly democratized sphere, away from the oversight and stifling nature of governments. Image Source: Wikipedia"
+  caption="John Barlow, author of 'A Declaration of the Independence of Cyberspace' argues that the emerging social media and usage of the internet by civilians marked a gateway to a truly democratized sphere, away from the oversight and stifling nature of governments. Image Source: Wikipedia"
  %}
 
 However, where some saw hope in this frontier, others feared what may become of it. 
