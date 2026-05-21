@@ -46,8 +46,7 @@ For many, social media marked a new age not only for community building and acce
 
 Similarly, social media promised for some to be a place where the formation, exploration, and creation of identity could be done where and when one was comfortable. Especially after the introduction of avatar-based games such as LambdaMOO and proto-modern social media platforms such as MySpace, people, especially youth, turned to social media as a way to safely explore their identities *(14)*. The immediate social consequences from experimenting with sexuality, gender, religious beliefs, or politics in real, physical life were much easier to evade online. In particular, those who felt isolated, misunderstood, or unsafe expressing their true selves in their immediate, physical surroundings surroundings, found that social media promised an unstifling environment where one's identity was theirs and theirs alone. 
 
-{% include images/figure-wrap.html image-path="lambdamoo.webp" %} {% include images/lambdamoo.webp
-  image-path="images/lambdamoo.webp"
+{% include image-path="images/lambdamoo.webp"
   height="85vh"
   background-position="center top"
   box-align="left"
@@ -65,8 +64,6 @@ All of these converge upon fearing the quality of truth itself. Misinformation, 
 
 Social media platforms not only encourage engagement, often at the expense of presenting truthful information, but algorithmically sort people into neat categories, perfectly prepared to descend into echo chambers and hive minds: closed environments where claims, however dubious, are reinforced until they are simply 'fact' to those consuming it. The anonymity of the internet made it incredibly easy to impersonate expertise, to create an identity which seemed authoritative on a certain subject, and then use it maliciously. In Shapin's framework, truth is a perpetual social construction, dependent on trust, community, and shared belief in sources of authority *(15)*. Social media stands on this fragile thing and could cause a breakdown in how our society views truth and knowledge over time. Social media does not merely have the ability to spread false information, but rather it has the power to corrode the very infrastructure we've built to distinguish between fact and falsehood.
 
-
-
 ## But How is This Any Different From Past 'Disruptions'?
 
 The rise of social media enabled anonymity and mass communication like no other. The rate at which mis/disinformation is created, spread, and believed is incredibly high and it is phenomenally hard to fix *(11)*. Disinformation campaigns have influenced elections, public perception, and have degraded our society’s trust in the truth, and what is accepted as the truth. It is so incredibly easy for an individual to be dishonest/spread disinformation and face practically no consequences for it. Anyone is able to say anything, from anywhere in the world, regardless of the 'truth value' of their content. The erasure of (formerly thought to be necessary) middlemen such as editors, publishers, and producers has lowered the bar for publications, thereby allowing anyone, regardless of their expertise on a subject, to act as an authority on a subject, or multiple for that matter. If anyone has the capabilities of doing this, that what even is 'truth' anymore? 
@@ -79,7 +76,7 @@ The rise of social media has led to the faster dissolution of trust in instituti
   height="85vh"
   background-position="center top"
   box-align="left"
-  text=" "You know, they're just so good at hyping people up and making you angry about this little thing and repeating an opinion over and over and over again until it sounds like a fact and being very snarky and demeaning with people who don't agree." - NPR"
+  text=" 'You know, they're just so good at hyping people up and making you angry about this little thing and repeating an opinion over and over and over again until it sounds like a fact and being very snarky and demeaning with people who don't agree.' - NPR"
 %}
 
 
