@@ -22,7 +22,7 @@ Although the beginning of a new form of community offered new and exciting oppor
 {% include images/figure-wrap.html 
   image-path="images/lambdamoo.webp"
   height="85vh"
-  background-position="center top"
+  background-position="center"
   caption="Interface of an online interactive platform, 'Second Life'. Like LambdaMoo, it was one of the first iterations of avatar-based interactive systems users could use to interact with others on a more intimate level. Source: Sandra Buchmuller, Gesche Joost, 'The Role of Interface in Virtual Gender Representations.'" %}
 
 ## The Social Contract of 'Objective Truth'
@@ -52,10 +52,10 @@ For many, social media marked a new age not only for community building and acce
 Similarly, social media promised for some to be a place where the formation, exploration, and creation of identity could be done where and when one was comfortable. Especially after the introduction of avatar-based games such as LambdaMOO and proto-modern social media platforms such as MySpace, people, especially youth, turned to social media as a way to safely explore their identities *(14)*. The immediate social consequences from experimenting with sexuality, gender, religious beliefs, or politics in real, physical life were much easier to evade online. In particular, those who felt isolated, misunderstood, or unsafe expressing their true selves in their immediate, physical surroundings surroundings, found that social media promised an unstifling environment where one's identity was theirs and theirs alone. 
 
 {% include images/figure-wrap.html
-  image-path="johnbarlow.png"
+  image-path="images/johnbarlow.png"
   height="85vh"
   background-position="center top"
-  box-align="left"
+  box-align="center"
   caption="John Barlow, author of 'A Declaration of the Independence of Cyberspace' argues that the emerging social media and usage of the internet by civilians marked a gateway to a truly democratized sphere, away from the oversight and stifling nature of governments. Image Source: Wikipedia"
  %}
 
@@ -79,7 +79,7 @@ The rise of social media has led to the faster dissolution of trust in instituti
 
 ## Social Media in Modernity and Its Impacts
 {% include images/figure-wrap.html
-  image-path="personyoutube.jpg"
+  image-path= "images/personyoutube.jpg"
   height="85vh"
   background-position="center top"
   box-align="left"
