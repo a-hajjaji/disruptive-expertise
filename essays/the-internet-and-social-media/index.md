@@ -83,7 +83,7 @@ The rise of social media has led to the faster dissolution of trust in instituti
   height="85vh"
   background-position="center top"
   box-align="left"
-  text=" "You know, they're just so good at hyping people up and making you angry about this little thing and repeating an opinion over and over and over again until it sounds like a fact and being very snarky and demeaning with people who don't agree." - Renee Ekwoge, NPR. Image Source: ETX Daily Up, "Need for speed: Watching sped-up content is a new social trend." "
+  text=" 'You know, they're just so good at hyping people up and making you angry about this little thing and repeating an opinion over and over and over again until it sounds like a fact and being very snarky and demeaning with people who don't agree." - Renee Ekwoge, NPR. Image Source: ETX Daily Up, "Need for speed: Watching sped-up content is a new social trend.' "
 %}
 
 
