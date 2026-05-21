@@ -74,6 +74,15 @@ The rise of social media enabled anonymity and mass communication like no other.
 The rise of social media has led to the faster dissolution of trust in institutions and the collective judgements of truth or social bonds are no longer nearly as strong. In some ways, this is not a bad thing: people are able to express themselves and their views, but it also means that bad actors are abundant and prolific. The way we as a society think about truth and what it means to be ‘good’ information has forever changed with the advent of social media.
 
 ## Social Media in Modernity and Its Impacts
+{% include images/personyoutube.jpg
+  image-path="personyoutube.jpg"
+  height="85vh"
+  background-position="center top"
+  box-align="left"
+  text=" "You know, they're just so good at hyping people up and making you angry about this little thing and repeating an opinion over and over and over again until it sounds like a fact and being very snarky and demeaning with people who don't agree." - NPR"
+%}
+
+
 Both the internet and social media were once touted as tools for collective enlightenment, world peace, and shared knowledge. In practice, they have instead revealed that humans believe something not because it is backed up by evidence, but because it ‘feels right’. While we might like to think of ourselves as rational beings, we are in fact incredibly emotional, as evidenced by how we use the internet and in particular, social media *(3)*. 
 
 Information is pushed more by algorithms than by users searching for answers, and those algorithms are based on engagement, and engagement is an incredibly emotional thing. This can lead to confirmation bias and the introduction or reinforcement of harmful ideologies. Disinformation and misinformation travel faster than actual information because 'untruths' often hit far harder emotionally *(12)*. Echo chambers are more prevalent than ever and this has caused people to isolate themselves within their own biases, creating hostile environments often completely based in emotion rather than logic. This has thus led to a rise in conspiracy theories and a distrust in scientifically supported data. This therefore has led to a breakdown in the social contract of trusting institutions and individuals historically and traditionally associated with 'truths'. 
