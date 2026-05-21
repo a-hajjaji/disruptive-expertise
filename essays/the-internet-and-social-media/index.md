@@ -22,7 +22,7 @@ Although the beginning of a new form of community offered new and exciting oppor
 {% include images/figure-wrap.html image-path="images/lambdamoo.webp"
   height="85vh"
   background-position="center top"
-  caption="Interface of an online interactive platform, "Second Life'. Like LambdaMoo, it was one of the first iterations of avatar-based interactive systems users could use to interact with others on amore intimate level. Source: Sandra Buchmuller, Gesche Joost, "The Role of Interface in Virtual Gender Representations."
+  caption="Interface of an online interactive platform, 'Second Life'. Like LambdaMoo, it was one of the first iterations of avatar-based interactive systems users could use to interact with others on amore intimate level. Source: Sandra Buchmuller, Gesche Joost, "The Role of Interface in Virtual Gender Representations."
   
 %}
 
