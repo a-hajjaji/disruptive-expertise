@@ -19,12 +19,11 @@ Users looking for solely casual interaction with others in a fun, engaging manne
 
 Although the beginning of a new form of community offered new and exciting opportunities for many, there were also many critics who voiced their concerns and fears that the internet had to offer. Perhaps, an anonymous, unregulated, new landscape would not be as beneficial as hopeful internet users thought it could be.
 
-{% include images/figure-wrap.html image-path="images/lambdamoo.webp"
+{% include images/figure-wrap.html 
+  image-path="images/lambdamoo.webp"
   height="85vh"
   background-position="center top"
-  caption="Interface of an online interactive platform, 'Second Life'. Like LambdaMoo, it was one of the first iterations of avatar-based interactive systems users could use to interact with others on amore intimate level. Source: Sandra Buchmuller, Gesche Joost, "The Role of Interface in Virtual Gender Representations." "
-  
-%}
+  caption="Interface of an online interactive platform, 'Second Life'. Like LambdaMoo, it was one of the first iterations of avatar-based interactive systems users could use to interact with others on a more intimate level. Source: Sandra Buchmuller, Gesche Joost, "The Role of Interface in Virtual Gender Representations." " %}
 
 ## The Social Contract of 'Objective Truth'
 
