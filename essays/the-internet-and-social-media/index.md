@@ -22,8 +22,8 @@ Although the beginning of a new form of community offered new and exciting oppor
 {% include images/figure-wrap.html 
   image-path="images/lambdamoo.webp"
   height="85vh"
-  background-position="center"
-  caption="Interface of an online interactive platform, 'Second Life'. Like LambdaMoo, it was one of the first iterations of avatar-based interactive systems users could use to interact with others on a more intimate level. Source: Sandra Buchmuller, Gesche Joost, 'The Role of Interface in Virtual Gender Representations.'" %}
+  background-position="left"
+  text="Interface of an online interactive platform, 'Second Life'. Like LambdaMoo, it was one of the first iterations of avatar-based interactive systems users could use to interact with others on a more intimate level. Source: Sandra Buchmuller, Gesche Joost, 'The Role of Interface in Virtual Gender Representations.'" %}
 
 ## The Social Contract of 'Objective Truth'
 
@@ -55,8 +55,8 @@ Similarly, social media promised for some to be a place where the formation, exp
   image-path="images/johnbarlow.png"
   height="85vh"
   background-position="center top"
-  box-align="center"
-  caption="John Barlow, author of 'A Declaration of the Independence of Cyberspace' argues that the emerging social media and usage of the internet by civilians marked a gateway to a truly democratized sphere, away from the oversight and stifling nature of governments. Image Source: Wikipedia"
+  box-align="left"
+  text="John Barlow, author of 'A Declaration of the Independence of Cyberspace' argues that the emerging social media and usage of the internet by civilians marked a gateway to a truly democratized sphere, away from the oversight and stifling nature of governments. Image Source: Wikipedia"
  %}
 
 However, where some saw hope in this frontier, others feared what may become of it. 
