@@ -1,8 +1,8 @@
 ---
 title: "Social Media: The Power of the Screen"
 layout: scrollstory
-header-image: images/socialmedia.jpg
-thumbnail: images/socialmedia.jpg
+header-image: image-path="images/socialmedia.jpg"
+thumbnail: image-path="images/socialmedia.jpg"
 summary: The introduction of the internet was the foundation of a new 'Third Place' outside of the physical world. A place where humans of all walks of life, regardless of background, self-identity, or residence in the world, could come together and share ideas, beliefs, and create a new form of community. Although the early days were full of hope, there were also fears of what laid ahead for humanity, including isolation, faceless accounts spouting dis- or misinformation, and an outlet for a new 'panopticon'. As social media has evolved, so to have these hopes and fears, and it's disruption on how we as a human society view truth and knowledge in the modern times. 
 header-title: Social Media: The Power of the Screen
 header-subtitle: How the Social Contract of 'Truth' Was Disrupted by the Introduction of the Online Community.
